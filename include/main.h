@@ -1,0 +1,2 @@
+void printTitle();
+void clearScreen();
